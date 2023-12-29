@@ -9,11 +9,6 @@
 
 ❓ Ask me about anything related Dart, Flutter, Firebase, BLoc, Chess, Self-development Books.
 
-⚡ Fun fact: Why do programmers prefer dark mode? :) Because light attracts bugs!!😶‍🌫️
+⚡ Fun fact: Why do programmers prefer dark mode? :) Because light attracts bugs!😶‍🌫️
 
- 📫 You can reach out to me via email at cpmuhammedsinan@gmail.com.if you have any questions or want to connect.
-
-
-
-
-aws circleci dart docker firebase flask flutter git go javascript jenkins kubernetes linux mongodb opencv postman python pytorch redis sqlite tensorflow typescript
+ 📫 You can reach out to me via email at cpmuhammedsinan@gmail.com if you have any questions or want to connect.
