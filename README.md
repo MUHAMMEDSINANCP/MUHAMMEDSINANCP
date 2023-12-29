@@ -12,4 +12,4 @@
 
 ⚡ Fun fact: Why do programmers prefer dark mode? :) Because light attracts bugs!😶‍🌫️
 
- 📫 You can reach out to me via email at cpmuhammedsinan@gmail.com if you have any questions or want to connect.
+ 📫 You can reach out to me via email at cpmuhammedsinan@gmail.com if you have any questions or want to connect. 
