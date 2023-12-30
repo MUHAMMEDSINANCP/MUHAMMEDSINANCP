@@ -1,8 +1,8 @@
+<h1 align="center">Hi 👋, I'm Muhammed Sinan CP</h1>
 
 ![code](https://github.com/MUHAMMEDSINANCP/MUHAMMED-SINAN-CP/assets/68960205/17edb6c9-518f-476d-849c-91f3886ac2fa)
 
 
-<h1 align="center">Hi 👋, I'm Muhammed Sinan CP</h1>
 <h3 align="center">I work as a Flutter developer. 🚀 Currently pursuing a degree in Bachelor of Computer Application 📚, I have a strong passion for Dart/Flutter. 💙 Actively involved in creating software and applications using Flutter. If interested, you can check out my Github Repositories! 📱👀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedsinancp&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedsinancp" /> </p>
@@ -23,11 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/muhammedsinancp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammedsinancp" height="30" width="40" /></a>
 <a href="https://twitter.com/muhammedsinancp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammedsinancp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammed sinan cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed sinan cp" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/muhammed-sinan-cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammed-sinan-cp" height="30" width="40" /></a>
 <a href="https://fb.com/muhammed sinan cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammed sinan cp" height="30" width="40" /></a>
 <a href="https://instagram.com/muhd_sinan_cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhd_sinan_cp" height="30" width="40" /></a>
+<a href="https://dribbble.com/muhammed sinan cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="muhammed sinan cp" height="30" width="40" /></a>
 <a href="https://www.behance.net/muhammed sinan cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="muhammed sinan cp" height="30" width="40" /></a>
 <a href="https://medium.com/@muhammed sinan cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammed sinan cp" height="30" width="40" /></a>
 </p>
