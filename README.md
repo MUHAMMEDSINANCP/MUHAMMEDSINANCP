@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhammedsinancp" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedsinancp?logo=twitter&style=for-the-badge" alt="muhammedsinancp" /></a> </p>
 
-- 🌱 I'm currently exploring subjects associated with Flutter development. **Flutter, Udemy**
+- 🌱 I'm currently exploring subjects associated with  **Flutter development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MUHAMMEDSINANCP?tab=repositories](https://github.com/MUHAMMEDSINANCP?tab=repositories)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me : **cpmuhammedsinan@gmail.com**
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? :) Because light attracts bugs!😶‍🌫️**
+- ⚡ Fun fact : **Why do programmers prefer dark mode? :) Because light attracts bugs!😶‍🌫️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
