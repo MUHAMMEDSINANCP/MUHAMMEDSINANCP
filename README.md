@@ -46,10 +46,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsinancp&" alt="muhammedsinancp" /></p>
 
-
-hello man 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MuhammedSinanCP/MuhammedSinanCP/output/snake.svg" alt="Snake animation" />
-
-###
