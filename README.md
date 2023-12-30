@@ -7,6 +7,7 @@
 
 <h3 align="center">I work as a Flutter developer. 🚀 Currently pursuing a degree in Bachelor of Computer Application 📚, I have a strong passion for Dart/Flutter. 💙 Actively involved in creating software and applications using Flutter. If interested, you can check out my Github Repositories! 📱👀</h3>
 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### 💫About Me:
 
@@ -54,7 +55,7 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![](https://visitcount.itsvg.in/api?id=MuhammedSinanCP&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
